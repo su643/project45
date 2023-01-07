@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://proud-wave-0efde7600.2.azurestaticapps.net/
-**project demo video link** -https://vimeo.com/30187489 
+**project demo video link** -https://youtu.be/exAONPdpEhw
 
 ## Azure technologies used for Project
 
